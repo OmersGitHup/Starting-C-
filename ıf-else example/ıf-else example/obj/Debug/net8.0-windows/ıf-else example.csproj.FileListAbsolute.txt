@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\bin\Debug\net8.0-windows\ıf-else example.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\bin\Debug\net8.0-windows\ıf-else example.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\bin\Debug\net8.0-windows\ıf-else example.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\bin\Debug\net8.0-windows\ıf-else example.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\bin\Debug\net8.0-windows\ıf-else example.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf_else_example.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\refint\ıf-else example.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ıf-else example.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ıf-else example\ıf-else example\obj\Debug\net8.0-windows\ref\ıf-else example.dll
