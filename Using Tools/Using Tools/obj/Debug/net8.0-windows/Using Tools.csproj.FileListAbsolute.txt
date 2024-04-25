@@ -1,0 +1,17 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\bin\Debug\net8.0-windows\Using Tools.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\bin\Debug\net8.0-windows\Using Tools.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\bin\Debug\net8.0-windows\Using Tools.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\bin\Debug\net8.0-windows\Using Tools.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\bin\Debug\net8.0-windows\Using Tools.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using_Tools.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\refint\Using Tools.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using Tools.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\ref\Using Tools.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projeler\Using Tools\Using Tools\obj\Debug\net8.0-windows\Using_Tools.Properties.Resources.resources
