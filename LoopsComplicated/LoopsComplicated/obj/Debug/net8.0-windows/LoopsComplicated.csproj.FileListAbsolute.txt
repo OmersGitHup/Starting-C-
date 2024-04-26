@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\bin\Debug\net8.0-windows\LoopsComplicated.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\bin\Debug\net8.0-windows\LoopsComplicated.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\bin\Debug\net8.0-windows\LoopsComplicated.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\bin\Debug\net8.0-windows\LoopsComplicated.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\bin\Debug\net8.0-windows\LoopsComplicated.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\refint\LoopsComplicated.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\LoopsComplicated.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsComplicated\LoopsComplicated\obj\Debug\net8.0-windows\ref\LoopsComplicated.dll
