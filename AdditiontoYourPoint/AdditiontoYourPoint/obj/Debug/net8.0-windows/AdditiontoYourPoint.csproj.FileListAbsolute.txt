@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\bin\Debug\net8.0-windows\AdditiontoYourPoint.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\bin\Debug\net8.0-windows\AdditiontoYourPoint.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\bin\Debug\net8.0-windows\AdditiontoYourPoint.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\bin\Debug\net8.0-windows\AdditiontoYourPoint.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\bin\Debug\net8.0-windows\AdditiontoYourPoint.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\refint\AdditiontoYourPoint.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\AdditiontoYourPoint.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\AdditiontoYourPoint\AdditiontoYourPoint\obj\Debug\net8.0-windows\ref\AdditiontoYourPoint.dll
