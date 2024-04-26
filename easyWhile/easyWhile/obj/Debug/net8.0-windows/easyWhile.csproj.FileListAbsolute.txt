@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\bin\Debug\net8.0-windows\easyWhile.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\bin\Debug\net8.0-windows\easyWhile.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\bin\Debug\net8.0-windows\easyWhile.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\bin\Debug\net8.0-windows\easyWhile.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\bin\Debug\net8.0-windows\easyWhile.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\refint\easyWhile.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\easyWhile.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\easyWhile\easyWhile\obj\Debug\net8.0-windows\ref\easyWhile.dll
