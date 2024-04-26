@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\bin\Debug\net8.0-windows\UsingTimer.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\bin\Debug\net8.0-windows\UsingTimer.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\bin\Debug\net8.0-windows\UsingTimer.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\bin\Debug\net8.0-windows\UsingTimer.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\bin\Debug\net8.0-windows\UsingTimer.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\refint\UsingTimer.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\UsingTimer.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\UsingTimer\UsingTimer\obj\Debug\net8.0-windows\ref\UsingTimer.dll
