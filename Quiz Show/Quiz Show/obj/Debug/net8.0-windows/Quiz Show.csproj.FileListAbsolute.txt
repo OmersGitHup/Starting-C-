@@ -1,0 +1,17 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz_Show.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz_Show.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\bin\Debug\net8.0-windows\Quiz Show.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\bin\Debug\net8.0-windows\Quiz Show.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\bin\Debug\net8.0-windows\Quiz Show.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\bin\Debug\net8.0-windows\Quiz Show.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\bin\Debug\net8.0-windows\Quiz Show.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\refint\Quiz Show.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\Quiz Show.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Quiz Show\Quiz Show\obj\Debug\net8.0-windows\ref\Quiz Show.dll
