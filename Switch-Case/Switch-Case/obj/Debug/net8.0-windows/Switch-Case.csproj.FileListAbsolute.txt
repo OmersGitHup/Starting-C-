@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\bin\Debug\net8.0-windows\Switch-Case.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\bin\Debug\net8.0-windows\Switch-Case.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\bin\Debug\net8.0-windows\Switch-Case.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\bin\Debug\net8.0-windows\Switch-Case.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\bin\Debug\net8.0-windows\Switch-Case.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch_Case.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\refint\Switch-Case.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\Switch-Case.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Switch-Case\Switch-Case\obj\Debug\net8.0-windows\ref\Switch-Case.dll
