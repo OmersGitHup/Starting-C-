@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\bin\Debug\net8.0-windows\Loops1.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\bin\Debug\net8.0-windows\Loops1.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\bin\Debug\net8.0-windows\Loops1.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\bin\Debug\net8.0-windows\Loops1.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\bin\Debug\net8.0-windows\Loops1.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\refint\Loops1.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\Loops1.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Loops1\Loops1\obj\Debug\net8.0-windows\ref\Loops1.dll
