@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\bin\Debug\net8.0-windows\Discount App.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\bin\Debug\net8.0-windows\Discount App.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\bin\Debug\net8.0-windows\Discount App.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\bin\Debug\net8.0-windows\Discount App.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\bin\Debug\net8.0-windows\Discount App.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount_App.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\refint\Discount App.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\Discount App.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Discount App\Discount App\obj\Debug\net8.0-windows\ref\Discount App.dll
