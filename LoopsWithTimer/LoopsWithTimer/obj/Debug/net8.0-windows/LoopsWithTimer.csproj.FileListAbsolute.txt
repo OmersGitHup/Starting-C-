@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\bin\Debug\net8.0-windows\LoopsWithTimer.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\bin\Debug\net8.0-windows\LoopsWithTimer.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\bin\Debug\net8.0-windows\LoopsWithTimer.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\bin\Debug\net8.0-windows\LoopsWithTimer.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\bin\Debug\net8.0-windows\LoopsWithTimer.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\refint\LoopsWithTimer.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\LoopsWithTimer.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\LoopsWithTimer\LoopsWithTimer\obj\Debug\net8.0-windows\ref\LoopsWithTimer.dll
