@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\refint\ProgressBar.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ProgressBar\ProgressBar\obj\Debug\net8.0-windows\ref\ProgressBar.dll
