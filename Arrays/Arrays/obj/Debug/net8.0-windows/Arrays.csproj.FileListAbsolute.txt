@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\refint\Arrays.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Arrays\Arrays\obj\Debug\net8.0-windows\ref\Arrays.dll
