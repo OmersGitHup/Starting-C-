@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\bin\Debug\net8.0-windows\ArrayswithLoops.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\bin\Debug\net8.0-windows\ArrayswithLoops.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\bin\Debug\net8.0-windows\ArrayswithLoops.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\bin\Debug\net8.0-windows\ArrayswithLoops.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\bin\Debug\net8.0-windows\ArrayswithLoops.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\refint\ArrayswithLoops.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ArrayswithLoops.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArrayswithLoops\ArrayswithLoops\obj\Debug\net8.0-windows\ref\ArrayswithLoops.dll
