@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\bin\Debug\net8.0-windows\ArraysExample.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\bin\Debug\net8.0-windows\ArraysExample.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\bin\Debug\net8.0-windows\ArraysExample.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\bin\Debug\net8.0-windows\ArraysExample.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\bin\Debug\net8.0-windows\ArraysExample.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\refint\ArraysExample.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ArraysExample.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ArraysExample\ArraysExample\obj\Debug\net8.0-windows\ref\ArraysExample.dll
