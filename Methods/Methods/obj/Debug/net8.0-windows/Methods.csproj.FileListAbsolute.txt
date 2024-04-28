@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\bin\Debug\net8.0-windows\Methods.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\bin\Debug\net8.0-windows\Methods.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\bin\Debug\net8.0-windows\Methods.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\bin\Debug\net8.0-windows\Methods.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\bin\Debug\net8.0-windows\Methods.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\refint\Methods.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\Methods.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Methods\Methods\obj\Debug\net8.0-windows\ref\Methods.dll
