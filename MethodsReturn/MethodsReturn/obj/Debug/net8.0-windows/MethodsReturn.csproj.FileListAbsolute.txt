@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\bin\Debug\net8.0-windows\MethodsReturn.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\bin\Debug\net8.0-windows\MethodsReturn.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\bin\Debug\net8.0-windows\MethodsReturn.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\bin\Debug\net8.0-windows\MethodsReturn.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\bin\Debug\net8.0-windows\MethodsReturn.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\refint\MethodsReturn.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\MethodsReturn.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MethodsReturn\MethodsReturn\obj\Debug\net8.0-windows\ref\MethodsReturn.dll
