@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\bin\Debug\net8.0-windows\ForEach Example.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\bin\Debug\net8.0-windows\ForEach Example.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\bin\Debug\net8.0-windows\ForEach Example.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\bin\Debug\net8.0-windows\ForEach Example.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\bin\Debug\net8.0-windows\ForEach Example.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach_Example.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\refint\ForEach Example.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ForEach Example.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach Example\ForEach Example\obj\Debug\net8.0-windows\ref\ForEach Example.dll
