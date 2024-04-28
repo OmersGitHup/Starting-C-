@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\bin\Debug\net8.0-windows\ForEach.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\bin\Debug\net8.0-windows\ForEach.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\bin\Debug\net8.0-windows\ForEach.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\bin\Debug\net8.0-windows\ForEach.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\bin\Debug\net8.0-windows\ForEach.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\refint\ForEach.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ForEach.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ForEach\ForEach\obj\Debug\net8.0-windows\ref\ForEach.dll
