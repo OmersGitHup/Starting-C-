@@ -1,0 +1,16 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\bin\Debug\net8.0-windows\ClassTruing.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\bin\Debug\net8.0-windows\ClassTruing.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\bin\Debug\net8.0-windows\ClassTruing.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\bin\Debug\net8.0-windows\ClassTruing.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\bin\Debug\net8.0-windows\ClassTruing.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\refint\ClassTruing.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ClassTruing.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\ClassTruing\ClassTruing\obj\Debug\net8.0-windows\ref\ClassTruing.dll
