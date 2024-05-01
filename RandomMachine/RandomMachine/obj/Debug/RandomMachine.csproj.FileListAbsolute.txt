@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\bin\Debug\RandomMachine.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\bin\Debug\RandomMachine.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\bin\Debug\RandomMachine.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\obj\Debug\RandomMachine.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\obj\Debug\RandomMachine.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\obj\Debug\RandomMachine.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\obj\Debug\RandomMachine.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\obj\Debug\RandomMachine.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\obj\Debug\RandomMachine.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomMachine\RandomMachine\obj\Debug\RandomMachine.pdb
