@@ -1,0 +1,14 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\bin\Debug\net8.0\CalculatorwithClassMethod.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\bin\Debug\net8.0\CalculatorwithClassMethod.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\bin\Debug\net8.0\CalculatorwithClassMethod.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\bin\Debug\net8.0\CalculatorwithClassMethod.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\bin\Debug\net8.0\CalculatorwithClassMethod.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\CalculatorwithClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\CalculatorwithClassMethod.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\CalculatorwithClassMethod.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\CalculatorwithClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\CalculatorwithClassMethod.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\refint\CalculatorwithClassMethod.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\CalculatorwithClassMethod.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\CalculatorwithClassMethod.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CalculatorwithClassMethod\CalculatorwithClassMethod\obj\Debug\net8.0\ref\CalculatorwithClassMethod.dll
