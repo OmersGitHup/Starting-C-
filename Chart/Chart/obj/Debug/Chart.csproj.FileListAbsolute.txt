@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\obj\Debug\Chart.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\Chart\Chart\obj\Debug\Chart.pdb
