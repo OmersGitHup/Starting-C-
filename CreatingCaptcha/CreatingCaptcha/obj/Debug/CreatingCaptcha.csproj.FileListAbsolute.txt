@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\bin\Debug\CreatingCaptcha.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\bin\Debug\CreatingCaptcha.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\bin\Debug\CreatingCaptcha.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\obj\Debug\CreatingCaptcha.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\obj\Debug\CreatingCaptcha.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\obj\Debug\CreatingCaptcha.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\obj\Debug\CreatingCaptcha.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\obj\Debug\CreatingCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\obj\Debug\CreatingCaptcha.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\CreatingCaptcha\CreatingCaptcha\obj\Debug\CreatingCaptcha.pdb
