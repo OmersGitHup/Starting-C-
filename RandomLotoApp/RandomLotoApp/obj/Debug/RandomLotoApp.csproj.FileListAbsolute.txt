@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\bin\Debug\RandomLotoApp.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\bin\Debug\RandomLotoApp.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\bin\Debug\RandomLotoApp.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\obj\Debug\RandomLotoApp.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\obj\Debug\RandomLotoApp.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\obj\Debug\RandomLotoApp.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\obj\Debug\RandomLotoApp.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\obj\Debug\RandomLotoApp.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\obj\Debug\RandomLotoApp.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\RandomLotoApp\RandomLotoApp\obj\Debug\RandomLotoApp.pdb
