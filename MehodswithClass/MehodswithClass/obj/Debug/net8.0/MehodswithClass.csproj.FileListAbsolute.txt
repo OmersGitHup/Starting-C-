@@ -1,0 +1,14 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\bin\Debug\net8.0\MehodswithClass.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\bin\Debug\net8.0\MehodswithClass.deps.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\bin\Debug\net8.0\MehodswithClass.runtimeconfig.json
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\bin\Debug\net8.0\MehodswithClass.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\bin\Debug\net8.0\MehodswithClass.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\MehodswithClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\MehodswithClass.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\MehodswithClass.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\MehodswithClass.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\MehodswithClass.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\refint\MehodswithClass.dll
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\MehodswithClass.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\MehodswithClass.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MehodswithClass\MehodswithClass\obj\Debug\net8.0\ref\MehodswithClass.dll
