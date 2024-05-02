@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\bin\Debug\InsideofEnum.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\bin\Debug\InsideofEnum.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\bin\Debug\InsideofEnum.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\obj\Debug\InsideofEnum.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\obj\Debug\InsideofEnum.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\obj\Debug\InsideofEnum.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\obj\Debug\InsideofEnum.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\obj\Debug\InsideofEnum.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\obj\Debug\InsideofEnum.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\InsideofEnum\InsideofEnum\obj\Debug\InsideofEnum.pdb
