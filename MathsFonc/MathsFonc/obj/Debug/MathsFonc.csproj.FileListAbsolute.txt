@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\bin\Debug\MathsFonc.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\bin\Debug\MathsFonc.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\bin\Debug\MathsFonc.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\obj\Debug\MathsFonc.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\obj\Debug\MathsFonc.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\obj\Debug\MathsFonc.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\obj\Debug\MathsFonc.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\obj\Debug\MathsFonc.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\obj\Debug\MathsFonc.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\MathsFonc\MathsFonc\obj\Debug\MathsFonc.pdb
