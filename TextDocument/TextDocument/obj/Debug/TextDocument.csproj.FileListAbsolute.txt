@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\bin\Debug\TextDocument.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\bin\Debug\TextDocument.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\bin\Debug\TextDocument.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\obj\Debug\TextDocument.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\obj\Debug\TextDocument.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\obj\Debug\TextDocument.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\obj\Debug\TextDocument.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\obj\Debug\TextDocument.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\obj\Debug\TextDocument.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\TextDocument\TextDocument\obj\Debug\TextDocument.pdb
