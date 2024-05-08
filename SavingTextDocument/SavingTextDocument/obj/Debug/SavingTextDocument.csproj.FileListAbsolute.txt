@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\bin\Debug\SavingTextDocument.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\bin\Debug\SavingTextDocument.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\bin\Debug\SavingTextDocument.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\obj\Debug\SavingTextDocument.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\obj\Debug\SavingTextDocument.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\obj\Debug\SavingTextDocument.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\obj\Debug\SavingTextDocument.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\obj\Debug\SavingTextDocument.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\obj\Debug\SavingTextDocument.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\SavingTextDocument\SavingTextDocument\obj\Debug\SavingTextDocument.pdb
