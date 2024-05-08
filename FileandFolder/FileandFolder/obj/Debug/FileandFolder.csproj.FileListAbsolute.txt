@@ -1,0 +1,10 @@
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\bin\Debug\FileandFolder.exe.config
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\bin\Debug\FileandFolder.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\bin\Debug\FileandFolder.pdb
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\obj\Debug\FileandFolder.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\obj\Debug\FileandFolder.Form1.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\obj\Debug\FileandFolder.Properties.Resources.resources
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\obj\Debug\FileandFolder.csproj.GenerateResource.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\obj\Debug\FileandFolder.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\obj\Debug\FileandFolder.exe
+C:\Users\ÖMER FARUK\Documents\M\Yazılım\Easy Projects\FileandFolder\FileandFolder\obj\Debug\FileandFolder.pdb
